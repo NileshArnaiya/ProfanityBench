@@ -357,3 +357,19 @@ python3 scripts/fix_severity.py --dry-run
 This is a **linguistic reference and cultural documentation** project. Use responsibly. Hate speech entries exist in the corpus for accuracy; they are flagged in data. Do not use this to harass people.
 
 Your dataset, your community. **Raise PRs. Fix the severity. Claim your shirt.** 🌶️
+
+## Cite this data
+
+Cite this data.. 
+
+```
+@misc{researcher_at_yale,_founder_@_bibby_ai_2026,
+	author       = { Researcher at Yale, Founder @ Bibby AI },
+	title        = { ProfanityBench (Revision d73a1ab) },
+	year         = 2026,
+	url          = { https://huggingface.co/datasets/BibbyResearch/ProfanityBench },
+	doi          = { 10.57967/hf/8984 },
+	publisher    = { Hugging Face }
+}
+```
+
